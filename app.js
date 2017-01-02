@@ -12,7 +12,7 @@ var h;
             }
         }
     }
-    return sortarray;
+    return h;
   }  
 document.getElementById("result").innerHTML = array;
 //
